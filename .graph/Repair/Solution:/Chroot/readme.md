@@ -4,7 +4,7 @@ sch: https://www.google.com/search?q=grub-install+failed+to+get+canonical+path+%
 https://askubuntu.com/questions/254491/failed-to-get-canonical-path-of-cow
 
 works!
-- tested on Ubuntu 23.10 with Qubes OS also installed. relation: https://github.com/Uni-Key/Qubes.env/blob/main/.graph/Dual%20Boot/readme.md
+- tested on Ubuntu 23.10 with Grub overwritten by Qubes OS install. relation: https://github.com/Uni-Key/Qubes.env/blob/main/.graph/Dual%20Boot/readme.md
 
 ```
 mkdir /mnt/chrootdir
